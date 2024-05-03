@@ -5,7 +5,6 @@ using System;
 
 public class LaserBullet : MonoBehaviour
 {
-    //Casella, Maximiliano
     [SerializeField] float _maxSpeed;
     [SerializeField] float _dmg;
     [SerializeField] float _timeToDestroy;

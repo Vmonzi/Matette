@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ParedDestroy : MonoBehaviour
 {
-    //Casella, Maximiliano
 
     [SerializeField] GameObject _walls;
     [SerializeField] GameObject _particles;

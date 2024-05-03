@@ -5,7 +5,6 @@ using UnityEngine;
 public class Wheels : MonoBehaviour, IRotateObject, IAudio
 {
 
-    //Casella, Maximiliano
 
     [SerializeField] Transform _point1;
     [SerializeField] Transform _point2;

@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Ivo Joaquín Aguilera
 
 public class ControlAnimation
 {

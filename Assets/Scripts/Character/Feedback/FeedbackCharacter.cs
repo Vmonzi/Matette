@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-//Ivo Joaquín Aguilera
 
 public class FeedbackCharacter : MonoBehaviour
 {

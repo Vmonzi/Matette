@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class HelpCode : MonoBehaviour, IHelpRobots
 {
-    //Monzi Victoria
     public GameObject text;
     public GameObject helpText;
 

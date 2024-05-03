@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Speed : PowerUps
 {
-    //Casella, Maximiliano
   
     [SerializeField] float _resetTime;
     

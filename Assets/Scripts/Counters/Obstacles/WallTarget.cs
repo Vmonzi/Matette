@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class WallTarget : MonoBehaviour
 {
-    //Casella, Maximiliano
 
     public delegate void ActivateWall();
 

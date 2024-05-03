@@ -4,8 +4,6 @@ using UnityEngine;
 
 public abstract class PowerUps : MonoBehaviour, IRotateObject
 {
-    //Casella, Maximiliano
-    //Clase padre para los Powerups que se vayan incorporando 
 
     [SerializeField] protected float _rotY;
     [SerializeField] protected AudioSource _audio;

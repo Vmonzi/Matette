@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-//Victoria Monzi - Ivo Joaquín Aguilera
 public class GameManager : MonoBehaviour
 {
     public static GameManager InstanceGameManager;

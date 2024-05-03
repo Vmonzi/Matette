@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Ivo Joaquin Aguilera
 
 public class JumpSensor : MonoBehaviour
 {

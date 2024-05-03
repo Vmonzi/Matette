@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class SecurityCamera : MonoBehaviour, IVisionRange
 {
-    //Casella, Maximiliano
 
     [SerializeField] Animator _myAnim;
     [SerializeField] AudioSource _effectSound;

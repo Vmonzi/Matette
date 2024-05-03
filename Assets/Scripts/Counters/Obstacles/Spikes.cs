@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Spikes : MonoBehaviour
 {
-    //Ivo Aguilera
     private float       _timeMoving = 1.0f;
     public float       _damage = 5;
     private bool        _isDown;

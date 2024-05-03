@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class Turret: MonoBehaviour, IVisionRange
 {
-    //Casella, Maximiliano
     [SerializeField] float _visionRange;
     [SerializeField] GameObject _bullet;
     [SerializeField] GameObject _target;

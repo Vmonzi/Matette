@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class BreakWall : MonoBehaviour
 {
-    //Casella, Maximiliano
 
     [SerializeField] Transform _target;
     [SerializeField] Transform _wall;

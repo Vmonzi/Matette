@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Smoke : MonoBehaviour
 {
-    //Casella, Maximiliano
     [SerializeField] float _damage;
     [SerializeField] GameObject _playerTarget;
 

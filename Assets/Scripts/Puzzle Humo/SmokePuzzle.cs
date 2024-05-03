@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class SmokePuzzle : MonoBehaviour
 {
-    //Casella Maximiliano
 
     [SerializeField] GameObject _smoke;
     [SerializeField] AudioSource _smokeSound;

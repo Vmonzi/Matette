@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CameraRotator : MonoBehaviour
 {
-    //Ivo Aguilera
     public float        _speedRotation;
 
     private void Update()

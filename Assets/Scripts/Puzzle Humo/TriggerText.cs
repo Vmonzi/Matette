@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class TriggerText : MonoBehaviour
 {
-    //Casella, Maximiliano
 
     [SerializeField] GameObject _txt;
 

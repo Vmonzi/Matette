@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class WallMovement
 {
-    //Casella, Maximiliano
 
     float _initialTime;
     float _time;

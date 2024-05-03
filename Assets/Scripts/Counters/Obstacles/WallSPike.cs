@@ -4,13 +4,6 @@ using UnityEngine;
 
 public class WallSPike : MonoBehaviour
 {
-    //Casella, Maximiliano
-
-    //float _time;
-   
-  
-    //[SerializeField] float _initialTime;
-    //[SerializeField] float _timeToMove;
     [SerializeField] GameObject _player;
     [SerializeField] float _dmg;
     [SerializeField] float _speed;

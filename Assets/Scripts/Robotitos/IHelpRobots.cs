@@ -4,7 +4,6 @@ using UnityEngine;
 
 public interface IHelpRobots 
 {
-    //Victoria Monzi
         void Text();
         void HelpText();
         void ExitText();
