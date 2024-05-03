@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ParedesPlat : MonoBehaviour, IPuertasMov
 {
-    // Victoria Monzi
     public Transform open;
     public Transform close;
     Transform      _target;

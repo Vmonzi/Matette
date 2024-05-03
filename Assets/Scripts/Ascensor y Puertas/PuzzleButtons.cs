@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class PuzzleButtons : MonoBehaviour
 {
-    //Casella, Maximiliano
     public delegate void TouchButtons();
 
     public event TouchButtons addButtons;

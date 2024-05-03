@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PuertasAsc : MonoBehaviour, IPuertasMov
 {
-    // Victoria Monzi - Ivo Aguilera
     [SerializeField] Transform _open;
     [SerializeField] Transform _close;
     float                      _velocity = 10;

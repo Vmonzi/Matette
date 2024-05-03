@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class LimitesAscensor : MonoBehaviour
 {
-    //Monzi Victoria - Ivo Aguielra
     public Collider     up;
     public Collider     down;
     public Collider     buttomUp;

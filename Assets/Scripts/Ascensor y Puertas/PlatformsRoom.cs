@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlatformsRoom : MonoBehaviour
 {
-    //Victoria Monzi
     ParedesPlat        _paredes;
     public GameObject   pj;
     bool               _pressed;

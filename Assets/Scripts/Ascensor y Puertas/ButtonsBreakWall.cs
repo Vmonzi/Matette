@@ -5,7 +5,6 @@ using System;
 
 public class ButtonsBreakWall : MonoBehaviour
 {
-    //Casella, Maximiliano
 
     public event Action activateWall = delegate { };
     [SerializeField] AudioSource _audio;

@@ -5,7 +5,6 @@ using System;
 
 public class Ascensor : MonoBehaviour
 {
-    // Ivo Aguilera - Victoria Monzi
     public enum posicion { up, down };
 
     public GameObject[] toShowOrHide;

@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Botones : MonoBehaviour
 {
-    //Victoria Monzi - Ivo Aguilera
     public Ascensor     myAscensor;
     public PuertasAsc[] doors;
     public AudioClip    ascensor;
